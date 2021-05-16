@@ -1,6 +1,6 @@
 # Else-If
 
-Lie Detector
+Lie Detector.
 Description
 
 
