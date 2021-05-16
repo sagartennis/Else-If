@@ -1,7 +1,7 @@
 # Else-If
 
 Lie Detector.
-Description
+
 
 
 You will be taking chemicals X,Y, A and B as inputs. Also, you will take the heart rate(heartRate) as input.
